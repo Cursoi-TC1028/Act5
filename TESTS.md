@@ -18,7 +18,7 @@ sudo -H pip3 install pytest
 - ## 01 Operaciones Básicas
     ### Run command
     ```
-    pytest assignments/01OperacionesBasicas
+    pytest assignments/01DiagonalRect
     ```
 
 - ## 02 Área Triángulo
@@ -84,25 +84,25 @@ sudo -H pip3 install pytest
 - ## 13 Cantidad de Litros de Pintura
     ### Run command
     ```
-    pytest assignments/13CantidadLitrosPintura
+    pytest assignments/2CantidadLitrosPintura
     ```
 
 - ## 14 Distancia Dos Puntos
     ### Run command
     ```
-    pytest assignments/14DistanciaDosPuntos
+    pytest assignments/3DistanciaDosPuntos
     ```
 
 - ## 15 Escalera
     ### Run command
     ```
-    pytest assignments/15Escalera
+    pytest assignments/4Escalera
     ```
 
 - ## 17 Razon Aurea
     ### Run command
     ```
-    pytest assignments/17RazonAurea
+    pytest assignments/05Poblacion
     ```
 
 - ## 18 Cuenta Bancaria
