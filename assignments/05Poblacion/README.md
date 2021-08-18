@@ -18,7 +18,8 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 <br><b>Crecimiento de población</b>
 <br>Escribe un programa que calcule la población de una especie en un determinado número de años. Utiliza la fórmula
  
-<br> donde poblacion =<a href="https://www.codecogs.com/eqnedit.php?latex=N_{i}e^{r&plus;t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N_{i}e^{r&plus;t}" title="N_{i}e^{rt}" /></a> es la población inicial
+<br> donde poblacion =<a href="https://www.codecogs.com/eqnedit.php?latex=N_{i}e^{r&plus;t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N_{i}e^{r&plus;t}" title="N_{i}e^{rt}" /></a> 
+<br><a href="https://www.codecogs.com/eqnedit.php?latex=N_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N_{i}e^{r&plus;t}" title="N_{i}e^{rt}" /></a>es la población inicial
 <br>r es la tasa de crecimiento, la cual siempre es un número entre 0 y 1
 <br>t es el tiempo en años y
 <br>e la constante de Euler
