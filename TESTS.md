@@ -90,13 +90,13 @@ sudo -H pip3 install pytest
 - ## 14 Distancia Dos Puntos
     ### Run command
     ```
-    pytest assignments/3DistanciaDosPuntos
+    pytest assignments/03DistanciaDosPuntos
     ```
 
 - ## 15 Escalera
     ### Run command
     ```
-    pytest assignments/4Escalera
+    pytest assignments/04Escalera
     ```
 
 - ## 17 Razon Aurea
