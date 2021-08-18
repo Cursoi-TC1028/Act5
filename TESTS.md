@@ -84,7 +84,7 @@ sudo -H pip3 install pytest
 - ## 13 Cantidad de Litros de Pintura
     ### Run command
     ```
-    pytest assignments/2CantidadLitrosPintura
+    pytest assignments/02CantidadLitrosPintura
     ```
 
 - ## 14 Distancia Dos Puntos
