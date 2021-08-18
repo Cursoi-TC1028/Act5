@@ -7,7 +7,7 @@ input_values = [
         # Inputs
         ["2","45"],
         # Outputs
-        ["Altura de la casa: ", "Angulo en grados: ", "Largo de la escalera: 3"],
+        ["", "", "3"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa el operador adecuado. El resultado debe ser un entero"
     ),
@@ -15,7 +15,7 @@ input_values = [
         # Inputs
         ["25", "30"],
         # Outputs
-         ["Altura de la casa: ", "Angulo en grados: ", "Largo de la escalera: 50"],
+         ["", "", "50"],
         # Error message
          "Revisa los tipos de dato de tus variables. Revisa el operador adecuado. El resultado debe ser un entero"
     )]
