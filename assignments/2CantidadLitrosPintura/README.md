@@ -39,9 +39,9 @@ La cantidad de litros a pintar (número entero)
 
 
 ```plaintext
-Area a pintar en metros: 857.5
-Rendimiento (m2/l): 10
-Litros a comprar: 86
+>>> 857.5
+>>> 10
+86
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
