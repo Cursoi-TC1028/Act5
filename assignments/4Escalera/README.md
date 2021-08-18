@@ -32,19 +32,19 @@ Un número, un número que representa el largo que debe tener la escalera. IMPOR
 Ejemplo 1 
 
 ```plaintext
-Altura de la casa: 2
-Angulo en grados: 45
+>>>2
+>>>45
 
-Largo de la escalera: 3
+3
 ```
 
 Ejemplo 2 
 
 ```plaintext
-Altura de la casa: 5
-Angulo en grados: 45
+>>>5
+>>>45
 
-Largo de la escalera: 7
+7
 ```
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 
