@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios Básicos!
+# Ejercicios Actividad 5!
 
 - 01 Diagonal Rectángulo
 - 02 Cantidad de Litros de Pintura
