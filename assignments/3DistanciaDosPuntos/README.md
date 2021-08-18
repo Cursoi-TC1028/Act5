@@ -32,21 +32,21 @@ El valor de la distancia (numero flotante) que existe entre los dos puntos. Desp
 Ejemplo 1 
 
 ```plaintext
-x1= 2
-y1= -4
-x2= 5
-y2= 3
-distancia= 7.62
+>>>2
+>>>-4
+>>>5
+>>>3
+7.62
 ```
 
 Ejemplo 2 
 
 ```plaintext
-x1= 5
-y1= 10
-x2= -3
-y2= -4
-distancia= 16.12
+>>> 5
+>>> 10
+>>> -3
+>>> -4
+16.12
 ```
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 
